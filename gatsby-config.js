@@ -15,6 +15,7 @@ module.exports = {
     },
       `gatsby-transformer-sharp`,
       `gatsby-transformer-remark`,
+      `@gatsby-contrib/gatsby-transformer-ipynb`,
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
