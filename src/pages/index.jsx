@@ -7,9 +7,9 @@ import SEO from "../components/seo"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
-    <h1>OK FINE MAYBE GATSBY IS COOL</h1>
-        <Link to="/mdtest/">and can handle jupyter notebooks and stuff</Link>
+    <SEO title="Paul Gowder Courses" />
+    <h1>Courses</h1>
+        This page is under construction, but it will contain material from the various courses I teach when it's built out.  
   </Layout>
 )
 
